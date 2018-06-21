@@ -1,4 +1,4 @@
 
-let x = process.env.APIKEY || "NOT WORKING" ;
+let x = env.APIKEY || "NOT WORKING" ;
 console.log("hello");
 console.log(x);
